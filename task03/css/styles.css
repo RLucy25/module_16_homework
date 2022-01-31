@@ -1,0 +1,11 @@
+
+table {
+    border-collapse: collapse;
+    /*убираем пустые промежутки между ячейками*/
+     border: 1px solid #000;
+    /*устанавливаем для таблицы внешнюю границу черного цвета толщиной 1px*/
+ }
+ td, th {
+    padding: 10px 15px;
+    border: 1px solid #000;
+ }
